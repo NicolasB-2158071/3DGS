@@ -86,7 +86,3 @@ export class NpzLoader {
         };
     }
 }
-
-// cov berekenen, juiste buffers, sh_evaluation
-// Implementeren: trainen, dispatched rendering, camera loaden
-// Afweging clusters op GPU en telkens cov berekenen of meer data op GPU -> cov clusteren lost dit op, geeft goede resultaten?
